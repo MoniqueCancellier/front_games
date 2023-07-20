@@ -1,0 +1,81 @@
+REQUISIÇÃO GET 
+fetch("https://api.example.com/data")
+  .then(function(response) {
+    if (response.ok) {
+      return response.json();
+    }
+    throw new Error("Resposta da rede não está OK");
+  })
+  .then(function(data) {
+    console.log(data);
+  })
+  .catch(function(error) {
+    console.error(error);
+  });
+
+REQUISIÇÃO POST 
+var data = {
+  name: "John",
+  age: 30
+};
+
+fetch("https://api.example.com/users", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json"
+  },
+  body: JSON.stringify(data)
+})
+  .then(function(response) {
+    if (response.ok) {
+      return response.json();
+    }
+    throw new Error("Resposta da rede não está OK");
+  })
+  .then(function(data) {
+    console.log(data);
+  })
+  .catch(function(error) {
+    console.error(error);
+  });
+
+REQUISIÇÃO PUT 
+var data = {
+  name: "John",
+  age: 30
+};
+
+fetch("https://api.example.com/users/1", {
+  method: "PUT",
+  headers: {
+    "Content-Type": "application/json"
+  },
+  body: JSON.stringify(data)
+})
+  .then(function(response) {
+    if (response.ok) {
+      return response.json();
+    }
+    throw new Error("Resposta da rede não está OK");
+  })
+  .then(function(data) {
+    console.log(data);
+  })
+  .catch(function(error) {
+    console.error(error);
+  });
+
+REQUISIÇÃO DELETE 
+fetch("https://api.example.com/users/1", {
+  method: "DELETE"
+})
+  .then(function(response) {
+    if (response.ok) {
+      console.log("Usuário removido com sucesso");
+    } else {
+      throw new Error("Resposta da rede não está OK");
+    }
+  })
+  .catch(function(error) {
+    console.error(error);
+  });

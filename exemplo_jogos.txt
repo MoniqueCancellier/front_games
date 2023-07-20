@@ -1,0 +1,53 @@
+Ação/Aventura:
+
+"The Legend of Zelda: Breath of the Wild"
+"Red Dead Redemption 2"
+"Assassin's Creed Valhalla"
+"God of War"
+"Uncharted 4: A Thief's End"
+
+RPG (Role-Playing Game):
+
+"The Witcher 3: Wild Hunt"
+"Elder Scrolls V: Skyrim"
+"Final Fantasy VII Remake"
+"Dark Souls III"
+"Mass Effect 2"
+FPS (First-Person Shooter):
+
+"Call of Duty: Warzone"
+"Overwatch"
+"Doom Eternal"
+"Counter-Strike: Global Offensive"
+"Destiny 2"
+
+Esportes:
+
+"FIFA 22"
+"NBA 2K22"
+"Madden NFL 22"
+"Rocket League"
+"WWE 2K22"
+
+Quebra-cabeça:
+
+"Portal 2"
+"Tetris Effect"
+"The Witness"
+"Baba Is You"
+"Monument Valley"
+Corrida:
+
+"Forza Horizon 4"
+"Gran Turismo Sport"
+"Mario Kart 8 Deluxe"
+"Need for Speed Heat"
+"Burnout Paradise Remastered"
+
+Indie:
+
+"Minecraft"
+"Stardew Valley"
+"Cuphead"
+"Hollow Knight"
+"Undertale"

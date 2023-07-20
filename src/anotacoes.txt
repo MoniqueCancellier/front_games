@@ -1,0 +1,12 @@
+## Comandos Git
+git clone 'link' .
+cd pasta - npm install
+preencher .env com as configuracoes
+git add . para adicionar as alteracoes
+git commit -m "mensagem de commit"
+git push origin master - para subir pro git
+
+# Comando BackEnd
+node server.js
+# Comando FrontEnd
+npm run dev

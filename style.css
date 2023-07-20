@@ -1,0 +1,27 @@
+.menu {
+    background-color: #f2f2f2;
+    padding: 50px;
+  }
+
+  .menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .menu li {
+    display: inline;
+  }
+
+  .menu a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+  }
+
+  .imagem-jogo {
+    width: 300px; /* Defina o tamanho desejado */
+    height: auto; /* Ajuste a altura conforme necessário */
+  }
+  
